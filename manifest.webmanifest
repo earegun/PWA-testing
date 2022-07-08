@@ -1,0 +1,15 @@
+{
+  "background_color": "red",
+  "description": "Testing PWA",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "https://cloud.dataxpie.com/console/templates/phox/img//android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Test PWA",
+  "short_name": "PWA",
+  "start_url": "/index.html"
+}
